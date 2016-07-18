@@ -1,2 +1,2 @@
 # hello-world
-learning how to use GitHub
+My name is Brittany and I'm learning how to use GitHub!!! Yay!
